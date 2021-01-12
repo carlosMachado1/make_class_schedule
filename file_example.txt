@@ -1,0 +1,156 @@
+SEGUNDA
+Modelagem e Projeto de Sistemas - Modelagem e Projeto de Sistemas	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:00 - 13:50
+Semanal	Danielle Pompeu Noronha Pontes
+Modelagem e Projeto de Sistemas - Modelagem e Projeto de Sistemas	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:50 - 14:40
+Semanal	Danielle Pompeu Noronha Pontes
+Eletrônica I - Eletrônica I	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	14:40 - 15:30
+Semanal	Raimundo Claudio Souza Gomes
+Eletrônica I - Eletrônica I	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	15:30 - 16:20
+Semanal	Raimundo Claudio Souza Gomes
+TERÇA
+Sistemas Digitais para Computação I - Sistemas Digitais para Computação I	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:00 - 13:50
+Semanal	Edgard Luciano Oliveira da Silva
+Sistemas Digitais para Computação I - Sistemas Digitais para Computação I	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:50 - 14:40
+Semanal	Edgard Luciano Oliveira da Silva
+Cálculo Numérico - Cálculo Numérico	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_D5-EST	16:20 - 17:10
+Semanal	Hiram Carlos Costa Amaral
+Cálculo Numérico - Cálculo Numérico	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_D5-EST	17:10 - 18:00
+Semanal	Hiram Carlos Costa Amaral
+Algoritmos e Estrutura de Dados II - Algoritmos e Estrutura de Dados II	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	09:10 - 10:00
+Semanal	Tiago Eugenio de Melo
+Algoritmos e Estrutura de Dados II - Algoritmos e Estrutura de Dados II	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	10:00 - 10:50
+Semanal	Tiago Eugenio de Melo
+Algoritmos e Estrutura de Dados II - Algoritmos e Estrutura de Dados II	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	10:50 - 11:40
+Semanal	Tiago Eugenio de Melo
+QUARTA
+Modelagem e Projeto de Sistemas - Modelagem e Projeto de Sistemas	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:00 - 13:50
+Semanal	Danielle Pompeu Noronha Pontes
+Modelagem e Projeto de Sistemas - Modelagem e Projeto de Sistemas	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:50 - 14:40
+Semanal	Danielle Pompeu Noronha Pontes
+Eletrônica I - Eletrônica I	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	14:40 - 15:30
+Semanal	Raimundo Claudio Souza Gomes
+Eletrônica I - Eletrônica I	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	15:30 - 16:20
+Semanal	Raimundo Claudio Souza Gomes
+QUINTA
+Sistemas Digitais para Computação I - Sistemas Digitais para Computação I	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:00 - 13:50
+Semanal	Edgard Luciano Oliveira da Silva
+Sistemas Digitais para Computação I - Sistemas Digitais para Computação I	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:50 - 14:40
+Semanal	Edgard Luciano Oliveira da Silva
+Cálculo Numérico - Cálculo Numérico	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_D5-EST	16:20 - 17:10
+Semanal	Hiram Carlos Costa Amaral
+Cálculo Numérico - Cálculo Numérico	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_D5-EST	17:10 - 18:00
+Semanal	Hiram Carlos Costa Amaral
+Algoritmos e Estrutura de Dados II - Algoritmos e Estrutura de Dados II	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	09:10 - 10:00
+Semanal	Tiago Eugenio de Melo
+Algoritmos e Estrutura de Dados II - Algoritmos e Estrutura de Dados II	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	10:00 - 10:50
+Semanal	Tiago Eugenio de Melo
+Algoritmos e Estrutura de Dados II - Algoritmos e Estrutura de Dados II	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	10:50 - 11:40
+Semanal	Tiago Eugenio de Melo
+SEXTA
+Modelagem e Projeto de Sistemas - Modelagem e Projeto de Sistemas	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:00 - 13:50
+Semanal	Danielle Pompeu Noronha Pontes
+Modelagem e Projeto de Sistemas - Modelagem e Projeto de Sistemas	ECP04_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	13:50 - 14:40
+Semanal	Danielle Pompeu Noronha Pontes
+Homem Sociedade e Meio-Ambiente ou Tecnologia - Homem Sociedade e Meio-Ambiente ou Tecnologia	ECP06_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	14:40 - 15:30
+Semanal	Fábio Bassini
+Homem Sociedade e Meio-Ambiente ou Tecnologia - Homem Sociedade e Meio-Ambiente ou Tecnologia	ECP06_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A5-EST	15:30 - 16:20
+Semanal	Fábio Bassini
+SÁBADO
+Introdução à Criptografia - Introdução à Criptografia	ECPOP_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A23-EST	09:10 - 10:00
+Semanal	Raimundo Corrêa de Oliveira
+Introdução à Criptografia - Introdução à Criptografia	ECPOP_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A23-EST	10:00 - 10:50
+Semanal	Raimundo Corrêa de Oliveira
+Introdução à Criptografia - Introdução à Criptografia	ECPOP_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A23-EST	10:50 - 11:40
+Semanal	Raimundo Corrêa de Oliveira
+Introdução à Criptografia - Introdução à Criptografia	ECPOP_T01
+
+14/01/2021 a 14/04/2021	Escola Superior de Tecnologia
+SA_A23-EST	11:40 - 12:30
+Semanal	Raimundo Corrêa de Oliveira
