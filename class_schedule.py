@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 
+# import re
 from openpyxl import Workbook
 
 from openpyxl.styles import (
@@ -11,11 +12,11 @@ from openpyxl.styles import (
 )
 
 from progression_time import hour_progression
-# from file_reader import read_data
+from file_reader import read_data
 
 
 wb = Workbook()
-dest_filename = "/home/carlos-machado/Documents/teste.xlsx"
+dest_filename = "/home/carlos-machado/Documents/github/make_class_schedule/teste.xlsx"
 
 ws1 = wb.active
 ws1.title = "Schedule"
@@ -56,16 +57,18 @@ data_fgc = PatternFill(fill_type="solid", fgColor="AEA79F")
 # Styles session finished
 #
 
+for i in range(1, 9):
+    for j in range(1, 17):
+        cell = ws1.cell(row=j, column=i)
+        cell.fill = headers_fgc
+        cell.border = border
+
 # define our head values and styles
 ws1.column_dimensions["A"].width = 12.2
-ws1.cell(row=1, column=1).border = border
-ws1.cell(row=1, column=1).fill = headers_fgc
 for col in range(2, 9):
     head = ws1.cell(row=1, column=col, value=days[col - 2])
     head.font = head_font
     head.alignment = general_alignment
-    head.border = border
-    head.fill = headers_fgc
     ws1.column_dimensions[columns[col - 2]].width = 18.24
 
 # define our time values and styles
@@ -73,9 +76,13 @@ ws1.row_dimensions[1].height = 22.4
 for row_ in range(2, len(horarios) + 2):
     time = ws1.cell(row=row_, column=1, value=horarios[row_ - 2])
     time.font = time_font
-    time.border = border
-    time.fill = headers_fgc
     ws1.row_dimensions[row_].height = 22.4
+
+data = read_data("file_example.txt")
+for day in data:
+    for subject in data[day]:
+        cell = ws1.cell(row=row_, column=1)
+        pass
 
 
 wb.save(filename=dest_filename)
