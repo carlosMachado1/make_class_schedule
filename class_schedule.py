@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# import re
 from openpyxl import Workbook
 
 from openpyxl.styles import (
@@ -79,10 +78,6 @@ for row_ in range(2, len(horarios) + 2):
     ws1.row_dimensions[row_].height = 22.4
 
 data = read_data("file_example.txt")
-for day in data:
-    for subject in data[day]:
-        cell = ws1.cell(row=row_, column=1)
-        pass
 
 
 wb.save(filename=dest_filename)
